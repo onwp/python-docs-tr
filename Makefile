@@ -19,7 +19,7 @@
 # test build, we're building with the .rst files that generated our
 # .po files.
 
-CPYTHON_CURRENT_COMMIT := dc3c075d9eebc82c63ec54bb3f217d67b2aea914
+CPYTHON_CURRENT_COMMIT := 7f2d89a444bb389a4f4ded13204e71c0af06ee76
 LANGUAGE := tr
 BRANCH := 3.12
 
